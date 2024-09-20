@@ -41,11 +41,11 @@ Ejecuta el siguiente comando en la terminal:
 
 ## Descripción de las entradas del avance de proyecto
 
-Archivo *jugadores.csv*:
+**Archivo *jugadores.csv***
 
-    Archivo para cargar la información de los jugadores iniciales
+Archivo para cargar la información de los jugadores iniciales
 
-    Contiene:
+Contiene:
 
 * Nombre (string)
 * UTR (float)
