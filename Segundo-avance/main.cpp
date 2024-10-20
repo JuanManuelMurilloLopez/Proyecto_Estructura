@@ -12,7 +12,7 @@ std::vector<Player*> jugadores;
 ATP ranking_ATP;
 
 void cargarJugadores(){
-    std::ifstream archivo("../jugadores.csv");
+    std::ifstream archivo("jugadores.csv");
     std::string linea, nombre, utr_str, atp_str, edad_str;
     jugadores.resize(NUMBER_OF_PLAYERS);
     if(!archivo.is_open()){
