@@ -75,13 +75,13 @@ Se escogió la estructura de vector para almacenar los jugadores.
 
 Ejecuta el siguiente comando en la terminal:
 
-`g++ main.cpp -o primer_avance`
+`g++ Segundo-Avance/main.cpp -o segundo_avance`
 
 ## Instrucciones para ejecutar el avance de proyecto
 
 Ejecuta el siguiente comando en la terminal:
 
-`./primer_avance`
+`./segundo_avance`
 
 ## Descripción de las entradas del avance de proyecto
 
