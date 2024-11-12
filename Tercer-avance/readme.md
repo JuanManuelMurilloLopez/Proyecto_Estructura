@@ -83,7 +83,7 @@ Se añade la funcionalidad para actualizar un archivo con información de jugado
 
 Ejecuta el siguiente comando en la terminal:
 
-`g++ main.cpp -o primer_avance`
+`g++ -std=c++11 main.cpp -o primer_avance`
 
 ## Instrucciones para ejecutar el avance de proyecto
 
