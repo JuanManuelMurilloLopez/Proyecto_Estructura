@@ -73,14 +73,11 @@ Se escogió la estructura de vector para almacenar los jugadores.
 
 ## Descripción del avance 3
 
-Escribe aquí la descripción de lo que contiene este avance.
+Se añade la funcionalidad para actualizar un archivo con información de jugadores y se añaden los comentarios de complejidad para cada función
 
 ### Cambios sobre el segundo avance
 
-1. Escribe la lista de cambios realizados sobre el planteamiento pasado: Argumenta la razón por la que decidiste el cambio. Estos argumentos puedes retomarlos más adelante en tu argumentación de competencias.
-2. Cambio 2: Razón del cambio
-3. Cambio 3: Razón del cambio
-4. etc...: etc...
+1. Nueva funcionalidad de escritura de archivos
 
 ## Instrucciones para compilar el avance de proyecto
 
