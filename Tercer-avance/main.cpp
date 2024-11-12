@@ -19,7 +19,7 @@ ATP ranking_ATP;
 */
 void escribirArchivo(std::string informacion){
   FILE *archivo;
-  archivo = fopen("../archivo_a_escribir.txt", "a");
+  archivo = fopen("archivo_a_escribir.txt", "a");
   if(archivo != nullptr){
     fprintf(archivo, "%s\n", informacion.c_str());
     fclose(archivo);
@@ -37,7 +37,7 @@ void escribirArchivo(std::string informacion){
 * Peor caso: O(n)
 */
 void cargarJugadores(){
-    std::ifstream archivo("../jugadores.csv");
+    std::ifstream archivo("jugadores.csv");
     std::string linea, nombre, utr_str, atp_str, edad_str;
     jugadores.resize(NUMBER_OF_PLAYERS);
     if(!archivo.is_open()){
